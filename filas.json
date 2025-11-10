@@ -1,0 +1,42 @@
+{
+    "stumble guys": {
+        "jogo": "stumble guys",
+        "valor": 5.0,
+        "max": 2,
+        "pix": "https://tipa.ai/duckioo23",
+        "inscritos": [],
+        "mensagem_id": 1436169908798095466,
+        "criador_id": 1229903485265383547,
+        "rodada": 2
+    },
+    "1434979925928050738": {
+        "jogo": "stumble guys",
+        "valor": 5.0,
+        "max_pessoas": 2,
+        "inscritos": [],
+        "rodadas": 2
+    },
+    "1436172649670905917": {
+        "jogo": "stumble guys",
+        "valor": 2.0,
+        "max_pessoas": 2,
+        "inscritos": [],
+        "rodadas": 1
+    },
+    "1436172963136143493": {
+        "jogo": "stumble guys",
+        "valor": 250.0,
+        "max_pessoas": 2,
+        "inscritos": [],
+        "rodadas": 1
+    },
+    "1436173243118780578": {
+        "jogo": "stumble guys",
+        "valor": 5.0,
+        "max_pessoas": 2,
+        "inscritos": [
+            "1229903485265383547"
+        ],
+        "rodadas": 1
+    }
+}

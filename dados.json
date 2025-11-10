@@ -1,0 +1,38 @@
+{
+    "filas": {
+        "1436173243118780578": {
+            "jogo": "stumble",
+            "valor": 5.0,
+            "rodadas": 2,
+            "queues": {
+                "block_dash": {
+                    "label": "Block Dash",
+                    "inscritos": [
+                        "1317904132895670355"
+                    ],
+                    "max_pessoas": 2,
+                    "message_id": null
+                },
+                "rush_hour": {
+                    "label": "Rush Hour",
+                    "inscritos": [],
+                    "max_pessoas": 2,
+                    "message_id": null
+                },
+                "laser_tracer": {
+                    "label": "Laser Tracer",
+                    "inscritos": [],
+                    "max_pessoas": 2,
+                    "message_id": null
+                }
+            },
+            "message_id": 1437458441600892939
+        }
+    },
+    "ranking_stumble": {
+        "1229903485265383547": 2,
+        "1391889670027350046": 3,
+        "1317904132895670355": 1
+    },
+    "ranking_valorant": {}
+}
